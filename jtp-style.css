@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#chart-cont {
+    height: 1000px;
+    width: 1000px
+}
